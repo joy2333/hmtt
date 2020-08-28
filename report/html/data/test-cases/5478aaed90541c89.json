@@ -1,0 +1,57 @@
+{
+  "uid" : "5478aaed90541c89",
+  "name" : "test_begin",
+  "fullName" : "case.mis.test01_begin.Test_begin#test_begin",
+  "historyId" : "f61bea404bf2e3d8dca6ac2b581306d8",
+  "time" : {
+    "start" : 1598590303654,
+    "stop" : 1598590303654,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=11)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test01_begin"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_begin"
+  }, {
+    "name" : "host",
+    "value" : "x-PC"
+  }, {
+    "name" : "thread",
+    "value" : "10120-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test01_begin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=11)" ]
+  },
+  "source" : "5478aaed90541c89.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,5 @@
+2020-08-27 16:00:53,958 INFO [root] [test03_mp_ari.py(test_ari:31)] - 发布的文章标题title
+2020-08-27 17:44:10,954 ERROR [root] [utils.py(is_element_exist:113)] - Message: 找不到文本为关注的元素对象
+
+2020-08-27 19:47:44,434 INFO [root] [test03_mp_ari.py(test_ari:30)] - 发布的文章标题title
+2020-08-27 20:00:44,059 INFO [root] [test03_mp_ari.py(test_ari:32)] - 发布的文章标题title

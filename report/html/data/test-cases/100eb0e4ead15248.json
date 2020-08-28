@@ -1,0 +1,174 @@
+{
+  "uid" : "100eb0e4ead15248",
+  "name" : "test_ari[title-文章内容01-c++-新增文章成功]",
+  "fullName" : "case.mp.test03_mp_ari.TestAri#test_ari",
+  "historyId" : "302aef6c0a2e88e3bdab1ba2000b5895",
+  "time" : {
+    "start" : 1598590409616,
+    "stop" : 1598590412975,
+    "duration" : 3359
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598590407178,
+      "stop" : 1598590407178,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3c5d3e99e92d9b96",
+      "name" : "新增文章成功",
+      "source" : "3c5d3e99e92d9b96.png",
+      "type" : "image/png",
+      "size" : 35980
+    }, {
+      "uid" : "81faa0e40da345a7",
+      "name" : "log",
+      "source" : "81faa0e40da345a7.txt",
+      "type" : "text/plain",
+      "size" : 69
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598590412977,
+      "stop" : 1598590412978,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test03_mp_ari"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAri"
+  }, {
+    "name" : "host",
+    "value" : "x-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12188-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test03_mp_ari"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "channel",
+    "value" : "'c++'"
+  }, {
+    "name" : "context",
+    "value" : "'文章内容01'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  }, {
+    "name" : "title",
+    "value" : "'title'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "dc17841ce90a0275",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598590300191,
+        "stop" : 1598590303647,
+        "duration" : 3456
+      }
+    }, {
+      "uid" : "77d9c18038c076d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598590205031,
+        "stop" : 1598590208537,
+        "duration" : 3506
+      }
+    }, {
+      "uid" : "7bda083187228966",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598529644059,
+        "stop" : 1598529647467,
+        "duration" : 3408
+      }
+    }, {
+      "uid" : "8ca3cf682f6ee828",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598528864435,
+        "stop" : 1598528867798,
+        "duration" : 3363
+      }
+    }, {
+      "uid" : "7ecee9b578d5c58c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598515253958,
+        "stop" : 1598515257080,
+        "duration" : 3122
+      }
+    }, {
+      "uid" : "929436c50459f79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598456854884,
+        "stop" : 1598456858010,
+        "duration" : 3126
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "100eb0e4ead15248.json",
+  "parameterValues" : [ "'c++'", "'文章内容01'", "'新增文章成功'", "'title'" ]
+}

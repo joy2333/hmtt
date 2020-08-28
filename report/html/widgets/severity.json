@@ -1,0 +1,101 @@
+[ {
+  "uid" : "825741388f054c7b",
+  "name" : "test_aduit_ari_pass",
+  "time" : {
+    "start" : 1598590420433,
+    "stop" : 1598590430618,
+    "duration" : 10185
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83457a1022ae3fe9",
+  "name" : "test_mis_login",
+  "time" : {
+    "start" : 1598590419951,
+    "stop" : 1598590420426,
+    "duration" : 475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5235047a8fc95050",
+  "name" : "test_qy_aritcal_1_linux",
+  "time" : {
+    "start" : 1598590489772,
+    "stop" : 1598590500526,
+    "duration" : 10754
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ddd183a69dffab3",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598590398378,
+    "stop" : 1598590398378,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c86bbca10572c6ed",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598590435425,
+    "stop" : 1598590440219,
+    "duration" : 4794
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "100eb0e4ead15248",
+  "name" : "test_ari[title-文章内容01-c++-新增文章成功]",
+  "time" : {
+    "start" : 1598590409616,
+    "stop" : 1598590412975,
+    "duration" : 3359
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4b207ecc94b88992",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1598590404852,
+    "stop" : 1598590407174,
+    "duration" : 2322
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "e7b1f885aaff77a4",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598590430632,
+    "stop" : 1598590435421,
+    "duration" : 4789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "438acaa273c6ae39",
+  "name" : "test_qy_aritcal_0_python",
+  "time" : {
+    "start" : 1598590446387,
+    "stop" : 1598590489770,
+    "duration" : 43383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8443c90096e6010",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598590412982,
+    "stop" : 1598590412982,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

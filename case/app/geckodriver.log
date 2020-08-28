@@ -1,0 +1,10 @@
+1598510933395	geckodriver	INFO	Listening on 127.0.0.1:64701
+1598510936395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\x\\AppData\\Local\\Temp\\rust_mozprofile02ERRT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598510940780	Marionette	INFO	Listening on port 64713
+1598510940790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1598510944878	Marionette	INFO	Stopped listening on port 64713

@@ -1,0 +1,219 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test01_begin",
+      "children" : [ {
+        "name" : "Test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "7ddd183a69dffab3",
+          "parentUid" : "9561ad94ef310184a2f237c99cabf0bf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590398378,
+            "stop" : 1598590398378,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9561ad94ef310184a2f237c99cabf0bf"
+      } ],
+      "uid" : "099de83666cb705ea4756750e47c6cbe"
+    }, {
+      "name" : "test02_mp_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login",
+          "uid" : "4b207ecc94b88992",
+          "parentUid" : "c89c8523e684592e973320f94f7d6ab3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590404852,
+            "stop" : 1598590407174,
+            "duration" : 2322
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c89c8523e684592e973320f94f7d6ab3"
+      } ],
+      "uid" : "96247cf888a04ef05d21ec8ca15d0efc"
+    }, {
+      "name" : "test03_mp_ari",
+      "children" : [ {
+        "name" : "TestAri",
+        "children" : [ {
+          "name" : "test_ari[title-文章内容01-c++-新增文章成功]",
+          "uid" : "100eb0e4ead15248",
+          "parentUid" : "0fafdcddf150aae0f87c4bfc99de2cbb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590409616,
+            "stop" : 1598590412975,
+            "duration" : 3359
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'c++'", "'文章内容01'", "'新增文章成功'", "'title'" ]
+        } ],
+        "uid" : "0fafdcddf150aae0f87c4bfc99de2cbb"
+      } ],
+      "uid" : "7aa0faea93dfb7d1c8bd29195ce1f6f8"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "Test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "c86bbca10572c6ed",
+          "parentUid" : "aec27073c59c81138d7a0afeb7dadc33",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590435425,
+            "stop" : 1598590440219,
+            "duration" : 4794
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "aec27073c59c81138d7a0afeb7dadc33"
+      } ],
+      "uid" : "8c16a6158e4ca1187e1ffb4035fedc9a"
+    } ],
+    "uid" : "1ce536a0a895f6300c151295e589a3fd"
+  }, {
+    "name" : "case.mis",
+    "children" : [ {
+      "name" : "test01_begin",
+      "children" : [ {
+        "name" : "Test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "a8443c90096e6010",
+          "parentUid" : "6f6566848320f08af8f2ddea41bf1b6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590412982,
+            "stop" : 1598590412982,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6f6566848320f08af8f2ddea41bf1b6e"
+      } ],
+      "uid" : "f3b6295a443c42710afa6777361a25be"
+    }, {
+      "name" : "test02_mis_login",
+      "children" : [ {
+        "name" : "TestMisLogin",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "83457a1022ae3fe9",
+          "parentUid" : "f6a4d9c37981631e708d549fb35bcec9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590419951,
+            "stop" : 1598590420426,
+            "duration" : 475
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f6a4d9c37981631e708d549fb35bcec9"
+      } ],
+      "uid" : "4160703edc3b0d19cfcbdf29e680fcb5"
+    }, {
+      "name" : "test03_aritcal_manage",
+      "children" : [ {
+        "name" : "TestAritcalMana",
+        "children" : [ {
+          "name" : "test_aduit_ari_pass",
+          "uid" : "825741388f054c7b",
+          "parentUid" : "9094d8057fe88b16e0d45a52c45fc0cb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590420433,
+            "stop" : 1598590430618,
+            "duration" : 10185
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9094d8057fe88b16e0d45a52c45fc0cb"
+      } ],
+      "uid" : "7918f7199db5ef7d635229085b40649d"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "Test_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "e7b1f885aaff77a4",
+          "parentUid" : "6880a3d851ac50883e908a6b64888a59",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590430632,
+            "stop" : 1598590435421,
+            "duration" : 4789
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6880a3d851ac50883e908a6b64888a59"
+      } ],
+      "uid" : "bf0c7b5b1f57bd0e2056e93fbd586b89"
+    } ],
+    "uid" : "161959b9461abb8732fe0e097cab26a7"
+  }, {
+    "name" : "case.app",
+    "children" : [ {
+      "name" : "test_query_aritcal",
+      "children" : [ {
+        "name" : "TestQueryAcitcal",
+        "children" : [ {
+          "name" : "test_qy_aritcal_0_python",
+          "uid" : "438acaa273c6ae39",
+          "parentUid" : "01466da26aef78f7f94ec88cee64d091",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590446387,
+            "stop" : 1598590489770,
+            "duration" : 43383
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_qy_aritcal_1_linux",
+          "uid" : "5235047a8fc95050",
+          "parentUid" : "01466da26aef78f7f94ec88cee64d091",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590489772,
+            "stop" : 1598590500526,
+            "duration" : 10754
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "01466da26aef78f7f94ec88cee64d091"
+      } ],
+      "uid" : "ebdf018085c474525ee6a181ca8fe5e2"
+    } ],
+    "uid" : "23e09f0b4ffbacad980fbf5d6f1f9273"
+  } ]
+}

@@ -1,0 +1,113 @@
+{
+  "uid" : "83457a1022ae3fe9",
+  "name" : "test_mis_login",
+  "fullName" : "case.mis.test02_mis_login.TestMisLogin#test_mis_login",
+  "historyId" : "9389be427f34bbed5fef23d3e789b10b",
+  "time" : {
+    "start" : 1598590419951,
+    "stop" : 1598590420426,
+    "duration" : 475
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598590412986,
+      "stop" : 1598590419620,
+      "duration" : 6634
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598590420427,
+      "stop" : 1598590420427,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=12)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test02_mis_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMisLogin"
+  }, {
+    "name" : "host",
+    "value" : "x-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12188-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test02_mis_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e6a8820c7b7ad6aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598590310588,
+        "stop" : 1598590311038,
+        "duration" : 450
+      }
+    }, {
+      "uid" : "b232c90a51642df5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598590216998,
+        "stop" : 1598590217487,
+        "duration" : 489
+      }
+    }, {
+      "uid" : "f1cb33db05d5e919",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598456864831,
+        "stop" : 1598456865288,
+        "duration" : 457
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=12)" ]
+  },
+  "source" : "83457a1022ae3fe9.json",
+  "parameterValues" : [ ]
+}

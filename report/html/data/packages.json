@@ -1,0 +1,183 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "mp",
+      "children" : [ {
+        "name" : "test01_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "7ddd183a69dffab3",
+          "parentUid" : "d49837acd53e66beeeb117e82fb0f902",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590398378,
+            "stop" : 1598590398378,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d49837acd53e66beeeb117e82fb0f902"
+      }, {
+        "name" : "test02_mp_login",
+        "children" : [ {
+          "name" : "test_login",
+          "uid" : "4b207ecc94b88992",
+          "parentUid" : "55bac5877f731deff58fb368a39f195e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590404852,
+            "stop" : 1598590407174,
+            "duration" : 2322
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "55bac5877f731deff58fb368a39f195e"
+      }, {
+        "name" : "test03_mp_ari",
+        "children" : [ {
+          "name" : "test_ari[title-文章内容01-c++-新增文章成功]",
+          "uid" : "100eb0e4ead15248",
+          "parentUid" : "17192c08d26ec87420a066f408ec4684",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590409616,
+            "stop" : 1598590412975,
+            "duration" : 3359
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'c++'", "'文章内容01'", "'新增文章成功'", "'title'" ]
+        } ],
+        "uid" : "17192c08d26ec87420a066f408ec4684"
+      }, {
+        "name" : "test_end",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "c86bbca10572c6ed",
+          "parentUid" : "7a7eef47d6905cd43ddd52ef4057502b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590435425,
+            "stop" : 1598590440219,
+            "duration" : 4794
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7a7eef47d6905cd43ddd52ef4057502b"
+      } ],
+      "uid" : "f729e3ae600bc8065b475ad9e41d1771"
+    }, {
+      "name" : "mis",
+      "children" : [ {
+        "name" : "test01_begin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "a8443c90096e6010",
+          "parentUid" : "797f5f35c0438ba6cf1e2f87895109b5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590412982,
+            "stop" : 1598590412982,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "797f5f35c0438ba6cf1e2f87895109b5"
+      }, {
+        "name" : "test02_mis_login",
+        "children" : [ {
+          "name" : "test_mis_login",
+          "uid" : "83457a1022ae3fe9",
+          "parentUid" : "eaeb7fb8917f250ba6ef8e0c295eabf0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590419951,
+            "stop" : 1598590420426,
+            "duration" : 475
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eaeb7fb8917f250ba6ef8e0c295eabf0"
+      }, {
+        "name" : "test03_aritcal_manage",
+        "children" : [ {
+          "name" : "test_aduit_ari_pass",
+          "uid" : "825741388f054c7b",
+          "parentUid" : "d0dfd9f9510121f69f6b440f09b86d85",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590420433,
+            "stop" : 1598590430618,
+            "duration" : 10185
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d0dfd9f9510121f69f6b440f09b86d85"
+      }, {
+        "name" : "test_end",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "e7b1f885aaff77a4",
+          "parentUid" : "6aae1f0f4ed2cfe911b2357246e73404",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598590430632,
+            "stop" : 1598590435421,
+            "duration" : 4789
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6aae1f0f4ed2cfe911b2357246e73404"
+      } ],
+      "uid" : "dce4d8f71ea6895c566b72c2a17cbd50"
+    }, {
+      "name" : "app.test_query_aritcal",
+      "children" : [ {
+        "name" : "test_qy_aritcal_0_python",
+        "uid" : "438acaa273c6ae39",
+        "parentUid" : "ed4241713bdfa907786a119e397ed5f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598590446387,
+          "stop" : 1598590489770,
+          "duration" : 43383
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_qy_aritcal_1_linux",
+        "uid" : "5235047a8fc95050",
+        "parentUid" : "ed4241713bdfa907786a119e397ed5f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598590489772,
+          "stop" : 1598590500526,
+          "duration" : 10754
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "app.test_query_aritcal"
+    } ],
+    "uid" : "3a5ff917f72cbd03b2a2ff2549394ef0"
+  } ]
+}

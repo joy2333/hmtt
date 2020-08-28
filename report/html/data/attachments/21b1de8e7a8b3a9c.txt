@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test03_mp_ari.py:30 发布的文章标题title

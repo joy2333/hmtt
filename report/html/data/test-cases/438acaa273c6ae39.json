@@ -1,0 +1,104 @@
+{
+  "uid" : "438acaa273c6ae39",
+  "name" : "test_qy_aritcal_0_python",
+  "fullName" : "case.app.test_query_aritcal.TestQueryAcitcal#test_qy_aritcal_0_python",
+  "historyId" : "091da93b2241aee73acf61c2e67c11f4",
+  "time" : {
+    "start" : 1598590446387,
+    "stop" : 1598590489770,
+    "duration" : 43383
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1598590440222,
+      "stop" : 1598590446387,
+      "duration" : 6165
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1598590500526,
+      "stop" : 1598590505638,
+      "duration" : 5112
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.app"
+  }, {
+    "name" : "suite",
+    "value" : "test_query_aritcal"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestQueryAcitcal"
+  }, {
+    "name" : "host",
+    "value" : "x-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12188-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.app.test_query_aritcal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56a268f5bf01712d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device.",
+      "time" : {
+        "start" : 1598590330848,
+        "stop" : 1598590330848,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "45fcf116ab788b27",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device.",
+      "time" : {
+        "start" : 1598590237147,
+        "stop" : 1598590237147,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "438acaa273c6ae39.json",
+  "parameterValues" : [ ]
+}
